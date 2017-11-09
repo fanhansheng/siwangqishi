@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### Update
 
 2017.09.07 Update duoshuo to gitment , see [commit](https://github.com/cody1991/cody1991.github.io/commit/2996c8f2e4aa90e5e33764605c407f5fd18eb1a2) , refer [gitment-introduction](https://imsun.net/posts/gitment-introduction/)
@@ -64,3 +65,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# siwangqishi
+>>>>>>> e03d1e32655a75cd9a8353783e8b65a54a45c298
